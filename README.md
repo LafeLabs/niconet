@@ -1,2 +1,3 @@
-# niconet
-self-replicating free off-grid wireless internet for those who need it!
+# [NICONET](https://github.com/lafelabs/niconet)
+
+
