@@ -19,7 +19,7 @@ There are 2 types of NICONET node: the mesh node and the bridge node.  Mesh node
 
 WANTED: volunteers to help build this.  We need at least one OpenWRT guru who does not have to be local but who can do builds and work with us to make sure they work before we try them here.  We also need at least one person to be a teacher of this system here in Denver who can teach others to replicate the system and help us to run clinics where we take donated hardware and turn it into either mesh nodes or bridge nodes. We are also looking for volunteers who are willing to share their home or business internet connection with the local community directly around wherever they are, to help those in need of access who are denied it by our current Internet system.  To contribute you could just build the nodes and document that and message Trash Robot at lafelabs[at]gmail[dot]com and I'll add it to this document.  
 
-
+Current development is centered in Denver, Colorado and is organized by Denver Street Stories and Trash Robot.
 
 ## Setup Guide largely lifted from ChatGPT:
 
