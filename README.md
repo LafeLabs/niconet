@@ -1,5 +1,7 @@
 # [NICONET](https://github.com/lafelabs/niconet)
 
+[NICONET Working Group Meetings on YouTube live at 3:00 PM Mountain Time(5:00 Eastern 2:00 Pacific)  on Friday](https://www.youtube.com/live/scBOWZZ0R30?feature=share)
+
 # NICONET
 
 We believe that broadband access to both the global Internet and to local information resources are basic human rights which should be provided for free to all people everywhere all the time. We believe that the way to achieve this is to find the people who have the least access and give them free access first and work our way up to a free network for all of society.   This network is based on the principles of mutual aid and direct action: seeing a need and taking immediate action to fill that need without asking for permission.
