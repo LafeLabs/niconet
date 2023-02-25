@@ -1,8 +1,6 @@
 # [NICONET](https://github.com/lafelabs/niconet)
 
-[NICONET Working Group Meetings on YouTube live at 3:00 PM Mountain Time(5:00 Eastern 2:00 Pacific)  on Friday](https://www.youtube.com/live/scBOWZZ0R30?feature=share)
-
-# NICONET
+## [DISCORD INVITE](https://discord.gg/5VYhVTFz)
 
 We believe that broadband access to both the global Internet and to local information resources are basic human rights which should be provided for free to all people everywhere all the time. We believe that the way to achieve this is to find the people who have the least access and give them free access first and work our way up to a free network for all of society.   This network is based on the principles of mutual aid and direct action: seeing a need and taking immediate action to fill that need without asking for permission.
 
@@ -15,6 +13,7 @@ NICONET is self-replicating. We are building a system designed to be copied by a
 
 NICONET is also an artistic movement, overlapping with solarpunk.  We want all of our infrastructure to be as off-grid as possible, and to have as much living parts as possible, incorporating plants and fungi into the design of structures which carry and support our infrastructure. We can share artistic visions of this on social media with hashtags #niconet and #solarpunk.  Our vision of solarpunk is very  organic, maximalist, rainbow-colored, and built from trash.
 
+Initial Niconet standard builds will be based on raspberry pi running Ubuntu due to quality of network tool support.
 
 There are 2 types of NICONET node: the mesh node and the bridge node.  Mesh nodes are fully mobile, can be wearable, in a backpack, on a cart, in a vehicle like a car or truck or van or camper or bike, or put up somewhere as a piece of public art.  They should have no personal or private property or data on them, and be able to be destroyed or lost without damaging the overall viability of the network.  Mesh nodes are how network operators distribute free wireless to our community, taking the node to where the people are and making sure they can get on, adding more nodes if they need them to get connectivity.  Bridge nodes are fixed installations in the locations where volunteers are willing to host a node and donate bandwidth.  They can have antennas pointed to public hotspots from windows or rooftops which connect to a mesh node and the rest of the local network.  These nodes can be built into flower boxes and other planter structures to make organic infrastructure.
 
