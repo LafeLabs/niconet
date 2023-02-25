@@ -2,6 +2,8 @@
 
 ## [DISCORD INVITE](https://discord.gg/5VYhVTFz)
 
+## [South Broadway Denver www.southbroadway.net Trashbook](https://www.southbroadway.net)
+
 We believe that broadband access to both the global Internet and to local information resources are basic human rights which should be provided for free to all people everywhere all the time. We believe that the way to achieve this is to find the people who have the least access and give them free access first and work our way up to a free network for all of society.   This network is based on the principles of mutual aid and direct action: seeing a need and taking immediate action to fill that need without asking for permission.
 
 The government and tech companies will not do this on their own, the only sustainable and scalable way to make this kind of network is for people to come together to build this ourselves, and get direct support for this activity from our communities.
